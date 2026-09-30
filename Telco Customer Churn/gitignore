@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+
+# Raw data (download from Kaggle instead of committing it)
+data/
+*.csv
+
+# Credentials - never commit these
+*.json
+!package.json
+.env
+service-account*.json
+gcloud/
+
+# Python / notebooks (if added later)
+__pycache__/
+.ipynb_checkpoints/
+.venv/
