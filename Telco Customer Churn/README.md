@@ -66,7 +66,7 @@ These are hypotheses suggested by the patterns above. This analysis is descripti
 | Storage & analysis | Google BigQuery (Standard SQL) |
 | Visualization | Looker Studio |
 
-![Pipeline architecture](docs/architecture.png)
+![Pipeline architecture](docs/architecture.md)
 
 ## Repository Structure
 
